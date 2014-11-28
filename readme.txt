@@ -8,10 +8,10 @@ Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add CARPOOLING to your WP site/blog. Fully integrated. No hassles. No need to change your any PHP or CSS files!
+Add CARPOOLING to your WP site/blog. Fully integrated. No hassles. No need to change any PHP or CSS file!
 
 == Description ==
-Add CARPOOLING to your WP site/blog. Fully integrated. No hassles. No need to change your any PHP or CSS files!
+Add CARPOOLING to your WP site/blog. Fully integrated. No hassles. No need to change any PHP or CSS file!
 
 <ul>
 <li>
@@ -30,7 +30,7 @@ Add CARPOOLING to your WP site/blog. Fully integrated. No hassles. No need to ch
 		</ol>
 </li>
 <li>
-	<strong>At last a working carpool solution .</strong>
+	<strong>At last a working carpool solution:</strong>
 		<ol>
 			<li>The option to carpool is offered at the source: your site. There is no need to surf to a commercial, anonymous third party site. </li>
 			<li>Your visitors will not leave your site.</li>
