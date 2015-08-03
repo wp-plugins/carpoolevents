@@ -3,7 +3,7 @@
 Plugin Name: Carpool.events
 Plugin URI: http://carpool.events
 Description: Add carpooling to your WordPress site. Fully integrated. No hassles. Click SETTINGS in the left WP menu-bar and select carpool.events to configure this plugin.
-Version: 0.1.0
+Version: 1.0.0
 Author: LaDauze
 Author URI: http://carpool.events
 License:  This plugin is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by
@@ -118,7 +118,7 @@ if(!class_exists('WP_carpoolclass'))
 				</style>
 				<script>
 					function newaccount(){
-					    var tmpurl = "http://app.easyapps.io/openaccount?wp=true&lang=0&aid=cov&mid=ea&mail=" + document.getElementById('mail63636').value + "&id="+ document.getElementById('name63636').value;
+					    var tmpurl = "http://app02.easyapps.io/openaccount?wp=true&lang=0&aid=cov&mid=ea&mail=" + document.getElementById('mail63636').value + "&id="+ document.getElementById('name63636').value;
 				        var ow = window.open(tmpurl, "owin", 'menubar=no,scrollbars=yes,status=no,width=800,height=600,left=0,top=0');
                         if (!ow){
                             document.getElementById('do63636').href = tmpurl;
@@ -144,7 +144,7 @@ if(!class_exists('WP_carpoolclass'))
                 <ul>
                 </div>
                 <?php } else { ?>
-                <h3 class="greenbar">STEP 1: Get an account and a code at <a href="http://www.carpool.events" target="_blank">Carpool.events</a></h3>
+                <h3 class="greenbar">STEP 1: Get an account:</h3>
                 <div class="marleft">
                 <ul id="newaccount63636">
                     If you did not already have an account at Carpool.events, just enter your name and e-mail address te open one (free):

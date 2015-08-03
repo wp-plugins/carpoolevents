@@ -1,10 +1,10 @@
 === Carpool.events ===
 Contributors: carpool.events
 Donate link: http://www.carpool.events
-Tags: carpooling, carpool, rideshare, covoiturage
+Tags: carpooling, carpool, rideshare, car share
 Requires at least: 2.7.0
-Tested up to: 4.0.1
-Stable tag: 0.1.0
+Tested up to: 4.2.3
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,7 +41,7 @@ Add CARPOOLING to your WP site/blog. Fully integrated. No hassles. No need to ch
 <li>
 	<strong>Only 25 &euro per year</strong>
 		<ol>
-			<li>1 month free account.</li>
+			<li>6 months free account.</li>
 			<li>No extra charge to your WP server, all is handled by our cloud based servers.</li>
 			<li>Fully managed service, updates and upgrades are included.</li>
 		</ol>
@@ -78,7 +78,7 @@ Neither do we.
 
 = Where can I ask a question about Carpool.events =
 
-Please use the SUPPORT option at [Carpool.events](http://www.carpool.events.com/ "Ask a question"), 
+Please use the SUPPORT option at [Carpool.events](http://www.carpool.events "Ask a question"), 
 or use the WordPress options to contact us. 
 We are happy to receive your feedback and to help you.
 
@@ -88,6 +88,10 @@ We are happy to receive your feedback and to help you.
 2. Example - inscription window.
 
 == Changelog ==
+
+= 0.2 =
+* 2015 Aug
+* Second release of this carpool.events WordPress plugin. Improved loader (no more iframes), more applications available.
 
 = 0.1 =
 * 2014 Nov.
@@ -99,3 +103,6 @@ We are happy to receive your feedback and to help you.
 * 2014 Nov.
 * First release of this carpool.events WordPress plugin.
 
+= 0.2 =
+* 2015 July
+* Second release of this carpool.events WordPress plugin.
